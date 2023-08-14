@@ -1,0 +1,447 @@
+Data,Nome_produto,Descrição,Tipo,Preço
+2023-08-12,Tio Lucas,Arroz tio lucas 1kg,Arroz Branco,835
+2023-08-12,Patriota,Arroz tailandia patriota 1kg,Arroz Branco,840
+2023-08-12,Alimo,Arroz alimo 1kg,Arroz Branco,990
+2023-08-12,Kingstar,Arroz paraboilizado thai kingstar 1kg,Arroz Branco,1.235
+2023-08-12,Camil,Arroz parabolizado camil 1kg,Arroz Branco,1.435
+2023-08-12,Al Fina,Arroz basmati al fina 1kg classico,Arroz Basmati,1.425
+2023-08-12,Zeeba,Arroz basmati zeeba stream 1kg,Arroz Basmati,2.555
+2023-08-12,Sona,Arroz basmati sona gold 1kg,Arroz Basmati,2.970
+2023-08-12,Sona,Arroz basmati sona natural bidon 1kg,Arroz Basmati,3.160
+2023-08-12,Sona,Arroz basmati sona natural bidon 2kg,Arroz Basmati,6.315
+2023-08-12,Al Fina,Arroz basmati al fina 5kg classico,Arroz Basmati,7.850
+2023-08-12,Sona,Arroz basmati sona saco 5kg sella,Arroz Basmati,7.960
+2023-08-12,Zeeba,Arroz basmati zeeba stream 5kg,Arroz Basmati,11.140
+2023-08-12,Sona,Arroz basmati sona natural saco 5kg pusa gold,Arroz Basmati,14.840
+2023-08-12,Sona,Arroz basmati sona 5kg jar silver,Arroz Basmati,15.040
+2023-08-12,Sona,Arroz basmati sona saco 5kg pusa silver,Arroz Basmati,15.255
+2023-08-12,Sona,Arroz basmati sona 5kg pusa platinum,Arroz Basmati,15.325
+2023-08-12,Tio Lucas,Farinha milho amarelo tio lucas 1kg,Farinha Milho,495
+2023-08-12,Uami,Farinha trigo uami 1kg,Farinha Trigo,540
+2023-08-12,Tio Lucas,Farinha trigo tio lucas 1kg,Farinha Trigo,710
+2023-08-12,Nacional,Farinha extra fina nacional 1kg,Farinha Trigo,1.585
+2023-08-12,Gracia,Massa esparguete gloria 400gr,Esparguete,285
+2023-08-12,Alimo,Massa esparguete alimo 400gr,Esparguete,325
+2023-08-12,Tio Lucas,Massa esparguete tio lucas 400gr,Esparguete,325
+2023-08-12,Gracia,Massa esparguete gracia 400gr,Esparguete,345
+2023-08-12,Ros Bien,Massa esparguete ros bien 400gr,Esparguete,345
+2023-08-12,Limor,Massa espaguete limor 400gm,Esparguete,345
+2023-08-12,Primavera,Massa esparguete primavera 400gr,Esparguete,425
+2023-08-12,Donna Maria,Massa alimentar donna maria 450gr,Esparguete,890
+2023-08-12,Milaneza,Massa esparguete milaneza 500gr,Esparguete,1.155
+2023-08-12,Milaneza,Massa esparguete linguine milaneza 500gr,Esparguete,1.165
+2023-08-12,Nacional,Massa linguine c/vegetais nacional 500gr,Esparguete,1.185
+2023-08-12,Milaneza,Massa esparguete fettuccine milaneza 500gr,Esparguete,1.215
+2023-08-12,Tio Lucas,Massa cotovelos tio lucas 400gr,Cotovelos/Macarrão,265
+2023-08-12,Tio Lucas,Massa macarrao tio lucas 400gr,Cotovelos/Macarrão,295
+2023-08-12,Gracia,Massa cotovelos chifferi adria 400gr,Cotovelos/Macarrão,325
+2023-08-12,Alimo,Massa elbow alimo 400gr,Cotovelos/Macarrão,595
+2023-08-12,Nacional,Massa cotovelos grossos gobbetti nacional 500gr,Cotovelos/Macarrão,1.140
+2023-08-12,Donna Maria,Massa macarrao donna maria 450gr penne rigatti,Cotovelos/Macarrão,1.585
+2023-08-12,Donna Maria,Massa macarrao donna maria 450gr concha,Cotovelos/Macarrão,1.585
+2023-08-12,Donna Maria,Massa macarrao donna maria 450gr elicoidali,Cotovelos/Macarrão,1.730
+2023-08-12,Tio Lucas,Massa espirais tio lucas 400gr,Espirais/Outras,295
+2023-08-12,Gracia,Massa espirais fusilli adria 400gr,Espirais/Outras,295
+2023-08-12,Nacional,Massa espirais nacional 500gr,Espirais/Outras,1.185
+2023-08-12,Milaneza,Massa talharim tagliatelle milaneza 500gr,Espirais/Outras,1.485
+2023-08-12,Donna Maria,Massa macarrao donna maria 450gr fusilli,Espirais/Outras,1.680
+2023-08-12,Biocom,Açucar branco biocom 1kg,Açúcar branco,775
+2023-08-12,Alimo,Açucar branco alimo 1kg,Açúcar branco,990
+2023-08-12,Alimo,Açucar branco alimo 5kg,Açúcar branco,5.940
+2023-08-12,Umaior,Açucar mascavado umaior 500gr,Açúcar mascavado,1.680
+2023-08-12,Umaior,Açucar mascavado umaior 1kg,Açúcar mascavado,3.365
+2023-08-12,Food Love,Doce cereja food love 260gr,Doce/goiabada,1.485
+2023-08-12,Food Love,Doce bagas mistas food love 260gr,Doce/goiabada,1.485
+2023-08-12,*,Doce de mucua 250ml,Doce/goiabada,1.575
+2023-08-12,Ideia Doce,Doce loengos ideia doce 250gr,Doce/goiabada,1.615
+2023-08-12,Perdiz,Marmelada extra perdiz 450gr,Doce/goiabada,1.980
+2023-08-12,Frami,Doce frami frasco 330gr frutos silvestres,Doce/goiabada,2.475
+2023-08-12,Frami,Marmelada frami 450gr,Doce/goiabada,2.970
+2023-08-12,Donna Bia,Mel 250g,Mel,1.780
+2023-08-12,Owiki-k,Mel nacional owiki-k frasco 125ml,Mel,1.980
+2023-08-12,Vitoria,Mel puro de angola vitoria 400gr,Mel,2.205
+2023-08-12,Coapa,Mel do moxico coapa 250gr,Mel,2.425
+2023-08-12,Uami,Oleo alimentar uami 1l,Óleo Soja/Alimentar,1.585
+2023-08-12,Primavera,Oleo vegetal primavera 1l,Óleo Soja/Alimentar,1.980
+2023-08-12,Alimo,Oleo soja alimo 1l,Óleo Soja/Alimentar,2.575
+2023-08-12,Massima,Oleo girassol massima 1l,Óleo Soja/Alimentar,2.670
+2023-08-12,Alimo,Oleo girassol alimo 1lt,Óleo Soja/Alimentar,2.970
+2023-08-12,Alimo,Oleo soja alimo 5l,Óleo Soja/Alimentar,13.860
+2023-08-12,Alimo,Oleo palma alimo 250ml,Óleo Palma,840
+2023-08-12,Tio Lucas,Oleo palma kitandeira tio lucas 1l,Óleo Palma,1.585
+2023-08-12,Massima,Oleo de palma puro massima  1lt,Óleo Palma,2.575
+2023-08-12,Odomse,Oleo palma odomse 1l,Óleo Palma,2.670
+2023-08-12,Gallo,Azeite gallo puro lata 200ml,Azeite,2.670
+2023-08-12,Clover,Azeite extra virgem clover olive pride 1l seed oils,Azeite,3.165
+2023-08-12,Gallo,Azeite extra virgem gallo classico 250ml,Azeite,3.960
+2023-08-12,Alimo,Azeite extra virgem  alimo 250ml,Azeite,3.960
+2023-08-12,Alimo,Azeite tradicional alimo lata 500ml,Azeite,4.350
+2023-08-12,Gallo,Azeite extra virgem gallo reserva 500ml,Azeite,6.585
+2023-08-12,Elaris,Azeite virgem extra elaris premium 250ml,Azeite,6.730
+2023-08-12,Elaris,Azeite virgem extra elaris premium 500ml,Azeite,7.425
+2023-08-12,Serrata,Azeite serrata tradicional 750ml,Azeite,7.920
+2023-08-12,Alimo,Azeite virgem extra alimo 750ml,Azeite,7.920
+2023-08-12,Serrata,"Azeite serrata virgem extra 0,5% 750ml",Azeite,8.910
+2023-08-12,Serrata,"Azeite serrata virgem extra sublime 0,3% 750ml",Azeite,8.910
+2023-08-12,*,Vinagre pet 500ml,Vinagre,225
+2023-08-12,Primavera,Vinagre primavera 500ml,Vinagre,345
+2023-08-12,Mira Bella,Vinagre sidra mirabella 500ml,Vinagre,740
+2023-08-12,Oliveira Da Serra,Vinagre vinho branco oliveira da serra 250ml,Vinagre,1.385
+2023-08-12,Paladin,Vinagre vinho tinto paladin 500ml,Vinagre,1.780
+2023-08-12,Gallo,Vinagre vinho branco gallo 250ml,Vinagre,2.285
+2023-08-12,Elaris,Vinagre balsamico de modena elaris 250ml,Vinagre,3.365
+2023-08-12,Frami,Vinagre balsamico frami 500ml,Vinagre,4.205
+2023-08-12,D`avo,Feijao branco cozido d`avo lata 425gr,Feijão branco/pinto,990
+2023-08-12,D Avo,Feijao branco cozido d`avo 820gr,Feijão branco/pinto,1.680
+2023-08-12,Amanhecer,Feijao manteiga amanhecer 420gr,Feijão manteiga/frade,790
+2023-08-12,Compal,Feijao frade compal 845gr,Feijão manteiga/frade,1.535
+2023-08-12,Mama Tete,Feijao manteiga mama tete 850gr,Feijão manteiga/frade,1.585
+2023-08-12,Alimo,Feijao manteiga alimo 1kg,Feijão manteiga/frade,2.575
+2023-08-12,Quê!,Feijao preto que! 400gr,Feijão preto/vermelho,990
+2023-08-12,Frami,Feijao preto frami lata 425gr,Feijão preto/vermelho,1.235
+2023-08-12,Patriota,Feijao preto patriota 1kg,Feijão preto/vermelho,1.980
+2023-08-12,Alimo,Feijao preto alimo 1kg,Feijão preto/vermelho,2.225
+2023-08-12,Frami,Feijao preto frami angola 850gr,Feijão preto/vermelho,2.325
+2023-08-12,Alimo,Grao bico alimo saco 1kg,Grão,3.365
+2023-08-12,Donatella,Massa tomate donatella 70gr,Tomate,345
+2023-08-12,Frami,Tomate triturado frami lata 390gr,Tomate,1.285
+2023-08-12,Donna Maria,Tomate pelado donna maria 400gr,Tomate,1.385
+2023-08-12,Food Love,Tomate pelado food love 400gr,Tomate,1.780
+2023-08-12,Frami,Tomate pelado frami lata 380gr,Tomate,1.980
+2023-08-12,Palanca,Batata frita palanca 32gr bbq,Batatas fritas,325
+2023-08-12,Lulu,Batata frita lulu 40gr ketchup,Batatas fritas,425
+2023-08-12,Lulu,Batata frita lulu 40gr barbecue,Batatas fritas,425
+2023-08-12,Lulu,Batata frita lulu 40gr lisa original,Batatas fritas,425
+2023-08-12,Lulu,Batata frita lulu 40gr cebola,Batatas fritas,425
+2023-08-12,Palanca,Batata frita 32gr bacon,Batatas fritas,435
+2023-08-12,Yaya,Batata frita yaya 40gr ondulada presunto,Batatas fritas,990
+2023-08-12,Yaya,Batata frita yaya 40gr lisa jindug,Batatas fritas,990
+2023-08-12,Lay´s,Batata frita lay´s 45gr originais,Batatas fritas,990
+2023-08-12,Lay´s,Batata frita lay´s 45gr camponesa,Batatas fritas,990
+2023-08-12,Ruffles,Batata frita ruffles 45gr original,Batatas fritas,990
+2023-08-12,Ruffles,Batata frita ruffles 45gr presunto,Batatas fritas,990
+2023-08-12,Gostos,Aperitivo gostos 15gr aneis queijo,Snacks/Aperitivos,50
+2023-08-12,Puff,Salgadinho churrasco 15gr,Snacks/Aperitivos,130
+2023-08-12,Vitoria,Aperitivo snack vitoria 40gr batata doce c/sal,Snacks/Aperitivos,240
+2023-08-12,*,Aperitivo castanha caju 30gr natural,Snacks/Aperitivos,700
+2023-08-12,Frittas,Snack batata doce chips frittas 110gr,Snacks/Aperitivos,1.185
+2023-08-12,Frittas,Snack banana chips frittas 150gr,Snacks/Aperitivos,1.285
+2023-08-12,Frittas,Snack mandioca chips frittas 110gr,Snacks/Aperitivos,1.285
+2023-08-12,Frittas,Snack mandioca palha frittas 150gr,Snacks/Aperitivos,1.680
+2023-08-12,Zinho`s,Paracuca caramelizada c/baunilha zinho`s 150gr,Snacks/Aperitivos,1.780
+2023-08-12,Zinho`s,Paracuca e jinguba zinho`s caixa 295gr,Snacks/Aperitivos,2.970
+2023-08-12,Vitoria,Pipocas salgadas vitoria 35gr,Pipocas,240
+2023-08-12,Jota,Pipocas doces jota 35gr,Pipocas,285
+2023-08-12,Jota,Pipocas salgadas jota 35gr,Pipocas,285
+2023-08-12,Ferbar,Milho p/pipocas ferbar 200gr,Pipocas,890
+2023-08-12,Alimo,Milho para pipocas alimo 500gr,Pipocas,940
+2023-08-12,Food Love,Sardinhas molho picante 155gr,Atum/Sardinhas,545
+2023-08-12,Food Love,Sardinhas molho tomate 155gr,Atum/Sardinhas,545
+2023-08-12,Radar,Atum radar sangacho em leo vegetal 120g,Atum/Sardinhas,790
+2023-08-12,Kingstar,Sardinhas oleo vegetal kingstar 125gr,Atum/Sardinhas,940
+2023-08-12,Adonis,Atum adonis posta oleo vegetal 120gr,Atum/Sardinhas,1.285
+2023-08-12,Radar,Atum oleo vegetal radar 120gr,Atum/Sardinhas,1.285
+2023-08-12,Magalhaes,Sardinhas em tomate magalhaes 125gr,Atum/Sardinhas,1.385
+2023-08-12,Mistral,Atum oleo vegetal mistral 110gr,Atum/Sardinhas,1.680
+2023-08-12,Amanhecer,Atum posta oleo vegetal amanhecer 120gr,Atum/Sardinhas,1.680
+2023-08-12,Magalhaes,Atum oleo vegetal magalhaes 110gr,Atum/Sardinhas,1.680
+2023-08-12,Ramirez,Sardinhas em tomate ramirez 125gr,Atum/Sardinhas,1.800
+2023-08-12,Alimo,Atum pedaços oleo vegetal alimo 185gr,Atum/Sardinhas,1.980
+2023-08-12,Sicasal,Salsicha frankfurt sicasal 6un,Salsichas,1.285
+2023-08-12,Sicasal,Salsichas frankfurt sicasal 8un 350gr,Salsichas,1.485
+2023-08-12,Dilop,Salsicha frankfurt dilop 8un,Salsichas,1.575
+2023-08-12,D`avo,Salsichas hotdog d´avo frasco 410gr 6un,Salsichas,2.275
+2023-08-12,Quê!,Cogumelo inteiro que! 185gr,Cogumelos,790
+2023-08-12,Food Love,Cogumelos laminados food love frasco 314ml,Cogumelos,990
+2023-08-12,Quê!,Cogumelo laminados que! 400gr,Cogumelos,1.090
+2023-08-12,Limor,Cogumelos inteiros limor 400gr,Cogumelos,1.285
+2023-08-12,Primavera,Cogumelos laminados primavera 425gr,Cogumelos,1.385
+2023-08-12,Primavera,Cogumelos inteiros primavera 425gr,Cogumelos,1.680
+2023-08-12,Frami,Cogumelos laminados frami 185gr,Cogumelos,1.830
+2023-08-12,Frami,Cogumelos inteiros frami angola 355gr,Cogumelos,2.375
+2023-08-12,Frami,Cogumelos laminados frami angola 355gr,Cogumelos,2.425
+2023-08-12,Piteca,Pate piteca 50gr frango piri-piri,Pate,225
+2023-08-12,Amanhecer,Pate de atum amanhecer 65gr,Pate,940
+2023-08-12,Quinta De Jugais,Pate de caça quinta dos jugais 110gr veado,Pate,2.365
+2023-08-12,Quê!,Ervilhas que! 400gr,Milho/Outros,890
+2023-08-12,Frami,Milho doce frami 150gr,Milho/Outros,990
+2023-08-12,Quê!,Macedonia que! 400gr,Milho/Outros,990
+2023-08-12,Uami,Milho doce uami 400gr,Milho/Outros,1.090
+2023-08-12,Primavera,Milho primavera 340gr,Milho/Outros,1.235
+2023-08-12,Donna Maria,Ervilha cozida donna maria 400gr,Milho/Outros,1.285
+2023-08-12,Frami,Ervilhas frami lata 425g,Milho/Outros,1.385
+2023-08-12,Frami,Macedonia legumes frami lata 425gr,Milho/Outros,1.385
+2023-08-12,Food Love,Milho doce food love 340gr,Milho/Outros,1.585
+2023-08-12,D Avo,Ervilha cozida d`avo 850gr,Milho/Outros,1.780
+2023-08-12,Frami,Milho doce frami lata 300gr,Milho/Outros,2.080
+2023-08-12,Frami,Pickles frami frasco 360gr,Milho/Outros,2.080
+2023-08-12,Mebon,Ketchup mebon t/d 450 gr,Ketchup/Mostarda,1.585
+2023-08-12,Donna Bia,Ketchup donna bia 325gr,Ketchup/Mostarda,1.830
+2023-08-12,Donna Bia,Ketchup picante 500ml,Ketchup/Mostarda,2.275
+2023-08-12,Frami,Ketchup normal frami 450gr,Ketchup/Mostarda,2.375
+2023-08-12,Donna Bia,Ketchup donna bia 550ml,Ketchup/Mostarda,2.455
+2023-08-12,Paladin,Mostarda paladin td 250gr,Ketchup/Mostarda,2.670
+2023-08-12,Delicia,Ketchup delicia 500gr,Ketchup/Mostarda,2.770
+2023-08-12,Heinz,Ketchup squeezy heinz frasco 342gr,Ketchup/Mostarda,3.265
+2023-08-12,Paladin,Ketchup paladin tp 250gr,Ketchup/Mostarda,3.565
+2023-08-12,Alimo,Mostarda alimo td 300ml,Ketchup/Mostarda,3.700
+2023-08-12,Paladin,Ketchup paladin tp 450gr,Ketchup/Mostarda,4.950
+2023-08-12,Heinz,Ketchup heinz tp 570gr,Ketchup/Mostarda,4.950
+2023-08-12,Mebon,Maionese mebon 250ml,Maionese,1.385
+2023-08-12,Delicia,Maionese delicia 250gr,Maionese,1.680
+2023-08-12,Frami,Maionese frami 270gr,Maionese,2.375
+2023-08-12,Paladin,Molho batatas fritas paladin tp 275ml,Maionese,2.970
+2023-08-12,Delicia,Maionese delicia tp 450gr,Maionese,3.120
+2023-08-12,Frami,Maionese frami 430gr,Maionese,3.165
+2023-08-12,Perdiz,Maionese perdiz td 225ml,Maionese,3.165
+2023-08-12,Paladin,Maionese paladin tp 250gr,Maionese,3.565
+2023-08-12,Alimo,Maionese alimo mayo td 450ml,Maionese,3.660
+2023-08-12,Primavera,Ketchup primavera td 500ml,Maionese,3.660
+2023-08-12,Heinz,Maionese heinz frasco 240ml,Maionese,4.455
+2023-08-12,Paladin,Maionese paladin tp 450gr,Maionese,4.950
+2023-08-12,Peninsular,Tempero sumo limao peninsular 500ml,Molhos/Temperos,690
+2023-08-12,Frami,Molho piri-piri frami 100ml,Molhos/Temperos,890
+2023-08-12,Baggio,Molho bechamel baggio 60gr,Molhos/Temperos,990
+2023-08-12,Donna Maria,Tempero completo donna maria 300gr s/pimenta,Molhos/Temperos,1.130
+2023-08-12,Donna Maria,Tempero completo d.maria 300gr p/aves,Molhos/Temperos,1.130
+2023-08-12,Zinho`s,Malagueta uige tchassana zinho`s 100ml,Molhos/Temperos,1.185
+2023-08-12,Flor Da Seara,Tempero sumo limao flor da seara 85gr,Molhos/Temperos,1.285
+2023-08-12,Frami,Molho ingles frami 200ml,Molhos/Temperos,1.385
+2023-08-12,Zinho`s,Tempero p/assados zinho`s 170gr suino,Molhos/Temperos,1.635
+2023-08-12,Donna Bia,Cominhos moidos donna bia 85ml,Molhos/Temperos,1.820
+2023-08-12,Diamond River,Molho soja escura diamond river 250ml,Molhos/Temperos,1.880
+2023-08-12,*,Molho soja baixo sodio diamond river 250ml,Molhos/Temperos,1.880
+2023-08-12,Dourado,Sal fino ekango 500gr,Sal,215
+2023-08-12,Saldomar,Sal cozinha iodado saldomar 1kg,Sal,345
+2023-08-12,Sabor Vida,Sal grosso sabor a vida 1kg,Sal,565
+2023-08-12,Dantas,Sal refinado dantas frasco 95gr,Sal,1.880
+2023-08-12,Donna Bia,Sal grosso c/moinho donna bia 85ml,Sal,2.375
+2023-08-12,Dandara,Gengibre em po dandara saq 14gr,Ervas/Especiarias,425
+2023-08-12,Amanhecer,Piri-piri moido amanhecer frasco 41gr,Ervas/Especiarias,590
+2023-08-12,Dandara,Cebolinho dandara saq 7gr,Ervas/Especiarias,595
+2023-08-12,Dandara,Alho granulado dandara saq 14gr,Ervas/Especiarias,645
+2023-08-12,Dandara,Canela moida dandara saq 12gr,Ervas/Especiarias,645
+2023-08-12,Dandara,Caril moido dandara saq 14gr,Ervas/Especiarias,645
+2023-08-12,Dandara,Pimentao doce dandara saq 14gr,Ervas/Especiarias,645
+2023-08-12,Dandara,Açafrao das indias dandara saq 14gr,Ervas/Especiarias,740
+2023-08-12,Dandara,Cominhos moidos dandara saq 12gr,Ervas/Especiarias,740
+2023-08-12,Al Fina,Pimenta caiena em po al fina frasco 40gr,Ervas/Especiarias,790
+2023-08-12,Al Fina,Acafrao em po al fina frasco 60gr,Ervas/Especiarias,790
+2023-08-12,Al Fina,Caril em po al fina frasco 50gr,Ervas/Especiarias,790
+2023-08-12,Alimo,Caldo camarao alimo saqueta 10gr,Caldos,25
+2023-08-12,Alimo,Caldo carne alimo 8cubos 80gr,Caldos,595
+2023-08-12,Alimo,Caldo verduras alimo 80gr,Caldos,595
+2023-08-12,Alimo,Caldo peixe alimo 80gr,Caldos,595
+2023-08-12,Alimo,Caldo camarao alimo 80gr,Caldos,595
+2023-08-12,Frami,Caldo galinha frami 8 cubos,Caldos,890
+2023-08-12,Frami,Caldo carne frami 8 cubos,Caldos,890
+2023-08-12,Frami,Caldo peixe frami 8 cubos,Caldos,890
+2023-08-12,Kicaldo,Caldo  carne kicaldo em cubo 10gr,Caldos,950
+2023-08-12,Knorr,Caldo knorr 8 cubos marisco,Caldos,990
+2023-08-12,Frami,Caldo marisco frami 8 cubos,Caldos,990
+2023-08-12,Frami,Caldo carne frami 12 cubos,Caldos,1.185
+2023-08-12,Amanhecer,Sopa instant. amanhecer 72gr marisco,Sopas,1.090
+2023-08-12,Tio Lucas,Bolacha maria tio lucas 20gr,Bolacha maria/torrada,50
+2023-08-12,Gullon,Maria gullon leite 25g,Bolacha maria/torrada,225
+2023-08-12,Gira,Bolacha maria tio lucas 125gr,Bolacha maria/torrada,225
+2023-08-12,Tio Lucas,Bolacha maria tio lucas 125gr,Bolacha maria/torrada,235
+2023-08-12,Vieira Castro,Bolacha maria vieira castro 25gr,Bolacha maria/torrada,425
+2023-08-12,Amanhecer,Bolacha maria amanhecer 200gr,Bolacha maria/torrada,740
+2023-08-12,*,Bolacha maria embalagem transp 150gr,Bolacha maria/torrada,890
+2023-08-12,Aliança,Bolacha maria aliança tradicional 200gr,Bolacha maria/torrada,1.485
+2023-08-12,Vieira Castro,Bolacha maria vieira castro 300gr s/açucar,Bolacha maria/torrada,6.435
+2023-08-12,Vieira Castro,Bolacha maria vieira castro 800gr,Bolacha maria/torrada,7.920
+2023-08-12,Gira,Bolacha agua e sal gira 20gr,Bolacha cracker/água e sal,50
+2023-08-12,Tio Lucas,Bolacha cream cracker tio lucas 30gr,Bolacha cracker/água e sal,60
+2023-08-12,Gira,Bolacha agua e sal gira 125gr,Bolacha cracker/água e sal,185
+2023-08-12,Tio Lucas,Bolachas cream crackers tio lucas 200gr,Bolacha cracker/água e sal,210
+2023-08-12,Vieira Castro,Bolacha cream cracker vieira castro 30gr,Bolacha cracker/água e sal,295
+2023-08-12,Vieira Castro,Bolacha agua e sal vieira castro 14gr,Bolacha cracker/água e sal,345
+2023-08-12,Aliança,Bolacha agua e sal aliança pacote transparente,Bolacha cracker/água e sal,645
+2023-08-12,Tuc,Bolacha tuc 100gr paprika,Bolacha cracker/água e sal,840
+2023-08-12,Cuetara,Bolacha cuetara cracker integral 200gr,Bolacha cracker/água e sal,1.235
+2023-08-12,Vieira Castro,Bolacha agua e sal vieira castro 125gr,Bolacha cracker/água e sal,1.435
+2023-08-12,Bakers,Biscoitos bakers cream crackers 200gr,Bolacha cracker/água e sal,1.680
+2023-08-12,Dancake,Bolacha crack it dancake c/sal 500gr,Bolacha cracker/água e sal,4.455
+2023-08-12,Parle,Bolacha creme parle hide&seek 112gr baunilha,Bolacha creme/waffer,415
+2023-08-12,Parle,Bolacha creme parle hide&seek 112gr morango,Bolacha creme/waffer,415
+2023-08-12,Parle,Bolacha creme parle hide&seek 112gr laranja,Bolacha creme/waffer,415
+2023-08-12,Lykon,Bolacha waffer lykon 100gr vanilla,Bolacha creme/waffer,475
+2023-08-12,Lykon,Bolacha waffer lykon 100gr strawberry,Bolacha creme/waffer,475
+2023-08-12,Gullon,Bolacha gullon duo 145gr chocolate,Bolacha creme/waffer,770
+2023-08-12,Sona,Bolacha c/creme sona marco 180gr chocolate,Bolacha creme/waffer,790
+2023-08-12,Sona,Bolacha c/creme sona marco 180gr limao,Bolacha creme/waffer,790
+2023-08-12,Sona,Bolacha c/creme sona marco 180gr morango,Bolacha creme/waffer,790
+2023-08-12,Sona,Bolacha c/creme sona marco 180gr original,Bolacha creme/waffer,790
+2023-08-12,Nacional,Bolacha wafermax nacional 125gr baunilha,Bolacha creme/waffer,990
+2023-08-12,Nacional,Bolacha wafermax nacional 125gr chocolate,Bolacha creme/waffer,990
+2023-08-12,Vieira Castro,Bolacha digestiva vieira castro 43gr,Bolacha digestiva,740
+2023-08-12,Gullon,Bolacha digestive gullon classic 400gr,Bolacha digestiva,1.930
+2023-08-12,Gullon,Bolacha gullon digestive 280gr aveia/laranja/chocolate,Bolacha digestiva,2.475
+2023-08-12,Gullon,Bolacha gullon digestive 425gr aveia/chocolate,Bolacha digestiva,2.810
+2023-08-12,Aliança,Bolacha digestiva aliança aveia 300gr,Bolacha digestiva,3.165
+2023-08-12,Gullon,Bolacha gullon digestive 425gr aveia/laranja,Bolacha digestiva,3.660
+2023-08-12,Vieira Castro,Bolacha digestiva vieira castro 174gr thins tradicional,Bolacha digestiva,4.750
+2023-08-12,Tio Lucas,Bolacha glucose tio lucas 45gr,Bolachas/Biscoitos,70
+2023-08-12,Da Avo,Biscoito bolinhos da avo 250gr,Bolachas/Biscoitos,1.285
+2023-08-12,*,Biscoito bolinhos de ginguba 250gr,Bolachas/Biscoitos,1.285
+2023-08-12,*,Biscoito bolinhos integrais 250gr,Bolachas/Biscoitos,1.285
+2023-08-12,*,Biscoito lagartos 250gr,Bolachas/Biscoitos,1.285
+2023-08-12,*,Biscoito linguas de gato 200gr,Bolachas/Biscoitos,1.285
+2023-08-12,*,Biscoito argolas de azeite 200gr,Bolachas/Biscoitos,1.285
+2023-08-12,Gullon,Biscoito gullon bizcochos 200gr,Bolachas/Biscoitos,1.285
+2023-08-12,Quente E Bom,Biscoito quente e bom frisado laranja 250gr,Bolachas/Biscoitos,1.585
+2023-08-12,Donna Bia,Bolacha donna bia 300gr cravinho,Bolachas/Biscoitos,1.680
+2023-08-12,Donna Bia,Bolacha de ginguba 300g,Bolachas/Biscoitos,1.680
+2023-08-12,Donna Bia,Biscoito donna bia 300gr coco,Bolachas/Biscoitos,1.680
+2023-08-12,Tio Lucas,Cereais gbola tio lucas 250gr,Cereais peq. almoço,545
+2023-08-12,Tio Lucas,Cereais gchocos tio lucas 250gr,Cereais peq. almoço,545
+2023-08-12,Tio Lucas,Cereais gloops tio lucas 250gr,Cereais peq. almoço,545
+2023-08-12,Nestle,Nestum mel sachet 300gr,Cereais peq. almoço,1.335
+2023-08-12,Nacional,Cereais nacional starz 300gr,Cereais peq. almoço,1.485
+2023-08-12,Nestum,Nestum mel 300gr,Cereais peq. almoço,1.780
+2023-08-12,Nacional,Cereais corn flakes nacional 500gr,Cereais peq. almoço,1.880
+2023-08-12,Nacional,Cereais nacional powerz 300gr,Cereais peq. almoço,1.975
+2023-08-12,Nacional,Cereais chocolate nacional chooks 300gr,Cereais peq. almoço,2.175
+2023-08-12,Nacional,Cereais chocolate nacional 650gr chocomax,Cereais peq. almoço,2.175
+2023-08-12,Nestle,Cereais chocolate nestle nesquik 375gr,Cereais peq. almoço,2.475
+2023-08-12,Nestle,Cereais chocolate nestle chocapic duo 400gr,Cereais peq. almoço,2.765
+2023-08-12,Al Fina,Cereais flocos aveia finos al fina 400gr,Flocos aveia/Granola,990
+2023-08-12,Tiara,Flocos aveia branca tiara 500gr,Flocos aveia/Granola,3.465
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas nº15 mythiq,Café cápsulas,5.940
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas nº9 qharacter,Café cápsulas,5.940
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas nº8 aqtivus,Café cápsulas,5.940
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas nº5 qonvictus,Café cápsulas,5.940
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas nº12 qharisma,Café cápsulas,5.940
+2023-08-12,Delta,Cafe delta q epiq c/10 capsulas nº14,Café cápsulas,5.940
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas cevada pure,Café cápsulas,6.930
+2023-08-12,Delta,Cha delta q tisana refresh verde c/10 capsulas ref. 03112,Café cápsulas,7.820
+2023-08-12,Delta,Cha delta q tetley c/10 capsulas relax,Café cápsulas,7.820
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas double coffee,Café cápsulas,7.920
+2023-08-12,Delta,Cafe expresso delta q c/10 capsulas canela,Café cápsulas,7.920
+2023-08-12,Delta,Cafe expresso delta q pack xl c/40 capsulas nº14 epiq,Café cápsulas,19.500
+2023-08-12,Loya,Cafe instantaneo loya 3em1 galao 20gr,Café instantâneo/solúvel,100
+2023-08-12,Samba,Cafe instantaneo samba 100gr,Café instantâneo/solúvel,1.385
+2023-08-12,Cafrica,Cafe instantaneo cafrica 50gr descafeinado,Café instantâneo/solúvel,2.475
+2023-08-12,Cafrica,Cafe instantaneo cafrica 100gr classico,Café instantâneo/solúvel,3.960
+2023-08-12,Cafrica,Cafe instantaneo cafrica 100gr descafeinado,Café instantâneo/solúvel,4.155
+2023-08-12,Delta,Cafe soluvel delta frasco 100gr,Café instantâneo/solúvel,4.850
+2023-08-12,Delta,Cafe cevada soluvel delta frasco 200gr,Café instantâneo/solúvel,5.145
+2023-08-12,Delta,Cafe + cereais soluvel delta frasco 200gr,Café instantâneo/solúvel,5.940
+2023-08-12,Ginga,Cafe moido ginga lote bwe md 125gr,Café moído/grão,1.285
+2023-08-12,Tumbwaza,Cafe torrado e moido tumbwaza 250gr,Café moído/grão,1.730
+2023-08-12,*,Cafe moido do povo diamante 250gr,Café moído/grão,2.475
+2023-08-12,Ginga,Cafe moido ginga lote bwe md 250gr,Café moído/grão,2.475
+2023-08-12,Ginga,Cafe ginga lobito md 250gr,Café moído/grão,2.970
+2023-08-12,Ginga,Cafe ginga lobito gr 250gr,Café moído/grão,4.455
+2023-08-12,Ginga,Cafe moido ginga lote bwe md 500gr,Café moído/grão,4.650
+2023-08-12,Ginga,Cafe moido ginga lote lobito md 500gr,Café moído/grão,5.445
+2023-08-12,Delta,Cafe moido delta lote brazil 220gr,Café moído/grão,6.930
+2023-08-12,Delta,Cafe delta lote chavena ms 250gr,Café moído/grão,7.920
+2023-08-12,Delta,Cafe grao delta lote chavena gr 250gr,Café moído/grão,11.385
+2023-08-12,Amanhecer,Cha amanhecer 10saq cidreira,Chá saquetas,595
+2023-08-12,Sona,Cha preto sona 25 saq 50gr,Chá saquetas,645
+2023-08-12,Amanhecer,Cha infusao amanhecer 10saq tilia,Chá saquetas,720
+2023-08-12,Al Fina,Cha verde al fina 25 saq caxinde,Chá saquetas,790
+2023-08-12,Al Fina,Cha al fina 25 saq abacaxi,Chá saquetas,790
+2023-08-12,Just A Minute,Cha preto just a minute 28gr 20un,Chá saquetas,890
+2023-08-12,Bom Tea,"Cha bom tea 1,2gr preto 25saq",Chá saquetas,990
+2023-08-12,Sona,Cha sona 25 saq limao,Chá saquetas,1.090
+2023-08-12,Ahmad,Cha ahmad 10 saq jasmin romance,Chá saquetas,1.680
+2023-08-12,Ahmad,Cha ahmad 10 saq pessego/maracuja,Chá saquetas,1.880
+2023-08-12,Deltea,Cha verde deltea 20saq menta,Chá saquetas,2.575
+2023-08-12,Deltea,Cha infusao deltea 20saq menta,Chá saquetas,2.575
+2023-08-12,Twisco,Achocolatado twisco 250gr,Achocolatado,1.535
+2023-08-12,Twisco,Achocolatado em po twisco 400gr,Achocolatado,1.680
+2023-08-12,Nesquick,Chocolate po nesquick 250gr,Achocolatado,2.225
+2023-08-12,Twisco,Achocolatado twisco jarro 400gr,Achocolatado,2.425
+2023-08-12,Nesquick,Chocolate po nesquik 500gr,Achocolatado,3.810
+2023-08-12,Bom Dia,Leite em po instantaneo bom dia 20gr,Leite em Pó,70
+2023-08-12,Cowbell,Leite em po instantaneo cowbell 15gr,Leite em Pó,80
+2023-08-12,Momo,Leite em po momo pacote 17gr,Leite em Pó,90
+2023-08-12,Nestle,Leite em po nido fortificante sachet 17gr,Leite em Pó,90
+2023-08-12,Mixwell,Leite em po instantaneo mixwell pacote 400gr,Leite em Pó,1.680
+2023-08-12,Nutra Plus,Leite em po nutra plus sachet 500gr,Leite em Pó,1.980
+2023-08-12,Nido,Leite em po nido fortificante pacote 400gr,Leite em Pó,2.080
+2023-08-12,Nutrias,Leite em po nutrias lata 400gr,Leite em Pó,2.175
+2023-08-12,Momo,Leite em po inst. momo pacote 500gr,Leite em Pó,2.670
+2023-08-12,Nutrias,Leite em po nutrias saco 500gr,Leite em Pó,2.870
+2023-08-12,Nestle,Leite lactogen 2 400g,Leite em Pó,3.265
+2023-08-12,Nido,Leite em po nido fortificante lata 400gr,Leite em Pó,3.465
+2023-08-12,Cereamil,Farinha lactea cereamil milby 50gr trigo/mel,Farinha Láctea,245
+2023-08-12,Nutribom,Farinha lactea nutribom 350gr aveia,Farinha Láctea,1.090
+2023-08-12,Nestle,Farinha lactea cerelac 250gr multicereais,Farinha Láctea,1.090
+2023-08-12,Cereamil,Farinha lactea cereamil milby 250gr trigo/mel,Farinha Láctea,1.285
+2023-08-12,Cereamil,Farinha lactea cereamil milby 250gr arroz/leite,Farinha Láctea,1.285
+2023-08-12,Nestum,Nestum bolacha maria 300gr,Farinha Láctea,1.585
+2023-08-12,Nestle,Farinha lactea cerelac 250gr bolacha maria,Farinha Láctea,1.880
+2023-08-12,Cerelac,Farinha lactea cerelac 500gr wheat,Farinha Láctea,2.475
+2023-08-12,Nestle,Farinha lactea cerelac 250gr maça,Farinha Láctea,2.870
+2023-08-12,Nutrino,Farinha lactea nutrino 200gr 7 cereais,Papas/Pure,1.780
+2023-08-12,Nutrino,Farinha lactea nutrino 200gr arroz/milho c/banana,Papas/Pure,1.780
+2023-08-12,Nutrino,Farinha lactea nutrino 200gr arroz/cereal,Papas/Pure,1.880
+2023-08-12,Niveen,Bolo niveen classico 50gr morango,Chocolates,255
+2023-08-12,Regina,Chocolate leite regina 20gr maracuja,Chocolates,585
+2023-08-12,Regina,Chocolate leite regina 24gr classic,Chocolates,645
+2023-08-12,Cadbury,Barra chocolate cadbury lunch bar 48gr,Chocolates,1.140
+2023-08-12,Twix,Chocolate twix 50gr,Chocolates,1.585
+2023-08-12,Bounty,Chocolate bounty 57gr,Chocolates,1.585
+2023-08-12,Mars,Chocolate mars 51gr,Chocolates,1.585
+2023-08-12,Snickers,Chocolate snickers 50gr,Chocolates,1.585
+2023-08-12,Schogetten,Chocolate negro schogetten 100gr,Chocolates,1.930
+2023-08-12,Cadbury,Chocolate cadbury dairy milk 80gr wholenut,Chocolates,1.980
+2023-08-12,Cadbury,Chocolate cadbury dairy milk 80gr coconut,Chocolates,1.980
+2023-08-12,Cadbury,Chocolate cadbury dairy milk 80gr original,Chocolates,1.980
+2023-08-12,Gorila,Pastilha elastica super gorila banana,Gomas/Pastilhas,295
+2023-08-12,Gorila,Pastilha elastica super gorila morango,Gomas/Pastilhas,295
+2023-08-12,Gorila,Pastilha elastica super gorila tutti-frutti,Gomas/Pastilhas,295
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr tijolos,Gomas/Pastilhas,555
+2023-08-12,Interdoces,Gomas sortido interdoces 90gr brilho,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas sortido interdoces 90gr açucar,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas sortido interdoces 90gr acido,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr minhocas acidas,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr bananas,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr beijinhos,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr garrafas cola,Gomas/Pastilhas,810
+2023-08-12,Interdoces,Gomas guloseimas interdoces 90gr morangos,Gomas/Pastilhas,810
+2023-08-12,Lykon,Rebuçados lykon top candy 400gr menta,Rebuçados/Pirulito,840
+2023-08-12,Lusiteca,Rebuçados mentol lusiteca 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Penha,Rebuçados de fruta penha 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Penha,Rebuçados caramelos leite penha 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Penha,Rebuçados recheio mel penha 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Penha,Rebuçados recheio morango penha 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Penha,Rebuçados recheio fruta penha 100gr,Rebuçados/Pirulito,1.980
+2023-08-12,Vieira Castro,Amendoas vieira castro lisa cores 100gr,Amêndoas,1.185
+2023-08-12,Vieira Castro,Amendoas vieira castro tipo frances 100gr,Amêndoas,1.285
+2023-08-12,Vieira Castro,Amendoas vieira castro paris 200gr,Amêndoas,2.670
+2023-08-12,Biagio,Aroma artificial biagio 30ml limao,Aromas/Enfeites,645
+2023-08-12,Foster,Aroma artificial foster clark`s 28ml baunilha,Aromas/Enfeites,990
+2023-08-12,Foster,Aroma artificial foster clark`s 28ml morango,Aromas/Enfeites,990
+2023-08-12,Alimo,Topping alimo 290ml morango,Aromas/Enfeites,1.980
+2023-08-12,Donna Bia,Decoraçao p/bolos vermicelli donna bia 85ml cacau,Aromas/Enfeites,2.275
+2023-08-12,Alimo,Coco ralado alimo 100gr,Coco/Cacau,890
+2023-08-12,Ferbar,Coco ralado ferbar 100gr,Coco/Cacau,1.155
+2023-08-12,Donna Bia,Coco ralado donna bia saco 100gr,Coco/Cacau,1.445
+2023-08-12,Alimo,Coco ralado alimo 200gm,Coco/Cacau,1.585
+2023-08-12,Donna Bia,Cacau em po donna bia 85ml,Coco/Cacau,1.810
+2023-08-12,Perdiz,Coco ralado perdiz 200gr,Coco/Cacau,2.155
+2023-08-12,Quente E Bom,Cacau em po q&b 200gr,Coco/Cacau,2.870
+2023-08-12,Quente E Bom,Coco ralado q&b 200gr,Coco/Cacau,3.165
+2023-08-12,Quente E Bom,Granulado de chocolate q&b 200gr,Coco/Cacau,3.165
+2023-08-12,Donna Bia,Cacau em po donna bia 200ml,Coco/Cacau,3.435
+2023-08-12,Quente E Bom,Chocolate negro 70% cacau q&b 200gr,Coco/Cacau,3.760
+2023-08-12,La Granda,Fermento bolo la granda 50gr,Fermento,245
+2023-08-12,Royal,Fermento em po royal baking powder 50gr,Fermento,650
+2023-08-12,Donna Bia,Bicarbonato sodio donna bia 85ml,Fermento,1.185
+2023-08-12,Foster Clark´s,Fermento p/bolos foster clark´s 110gr,Fermento,1.285
+2023-08-12,Amanhecer,Fermento po amanhecer 150gr,Fermento,2.275
+2023-08-12,Biagio,Preparado bolo coco biagio 450gr,Massa Pronta,1.880
+2023-08-12,Biagio,Preparado bolo red velvet biagio 450gr,Massa Pronta,1.880
+2023-08-12,Quente E Bom,Preparado p/bolo cake 500gr ananas,Massa Pronta,3.265
+2023-08-12,Quente E Bom,Preparado p/bolo cake 500gr chocolate,Massa Pronta,3.265
+2023-08-12,Quente E Bom,Preparado p/bolo cake 500gr cenoura,Massa Pronta,3.660
+2023-08-12,Quente E Bom,Preparado p/bolo cake 500gr laranja,Massa Pronta,3.660
+2023-08-12,Foster,Gelatina foster clark`s 85gr morango,Gelatina/Leite creme,690
+2023-08-12,Biagio,Mousse maracuja biagio 100gr,Gelatina/Leite creme,1.185
+2023-08-12,Biagio,Gelatina biagio 170gr tutti frutti,Gelatina/Leite creme,1.285
+2023-08-12,Quente E Bom,Chantilly em po q&b 200gr,Gelatina/Leite creme,3.165
