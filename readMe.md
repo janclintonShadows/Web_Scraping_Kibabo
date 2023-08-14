@@ -32,7 +32,7 @@ Para a implementação deste mini projecto, foi usado as seguintes tecnologias:
 
 ### Aceder o conjuto de dados
 
-['Kiabado_produtos']("/tree/main/Dataset")
+['Kiabado_produtos']("https://github.com/janclintonShadows/Web_Scraping_Kibabo/tree/main/Dataset")
 
  Clicar abaixo para abrir o notebook do projecto.
 
