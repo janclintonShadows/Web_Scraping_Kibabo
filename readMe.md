@@ -32,8 +32,12 @@ Para a implementação deste mini projecto, foi usado as seguintes tecnologias:
 
 ### Aceder o conjuto de dados
 
-['Kiabado_produtos']("Dataset\")
+['Kiabado_produtos']("/tree/main/Dataset")
 
  Clicar abaixo para abrir o notebook do projecto.
 
-[Notebook]("Scraping Kibabo.ipynb")
+[Notebook]("https://github.com/janclintonShadows/Web_Scraping_Kibabo/tree/main")
+
+
+<hr>
+__Autor:__ Janclinton Francisco
